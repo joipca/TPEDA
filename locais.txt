@@ -1,0 +1,4 @@
+1;Braga;
+2;Barcelos;
+3;Porto;
+4;Lisboa;
